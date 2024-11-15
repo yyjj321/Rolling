@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|d:\\class\\assets\\sprites\\countingdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\countingdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|d:\\class\\assets\\sprites\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Score.cs",
+              "DocumentMoniker": "D:\\class\\Assets\\Sprites\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\Score.cs",
+              "ToolTip": "D:\\class\\Assets\\Sprites\\Score.cs",
+              "RelativeToolTip": "Assets\\Sprites\\Score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:16:12.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountingDown.cs",
+              "DocumentMoniker": "D:\\class\\Assets\\Sprites\\CountingDown.cs",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\CountingDown.cs",
+              "ToolTip": "D:\\class\\Assets\\Sprites\\CountingDown.cs",
+              "RelativeToolTip": "Assets\\Sprites\\CountingDown.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:12:30.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
