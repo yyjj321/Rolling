@@ -8,6 +8,7 @@ TagManager:
   - Object
   - Score
   - Timer
+  - "\u5DF2\u6355\u6349"
   layers:
   - Default
   - TransparentFX

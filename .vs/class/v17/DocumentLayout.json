@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "D:\\class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|d:\\class\\assets\\sprites\\countingdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|d:\\class\\assets\\easystart third person controller\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|solutionrelative:assets\\easystart third person controller\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|d:\\class\\assets\\sprites\\attached.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\attached.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|D:\\class\\assets\\sprites\\ballmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\ballmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|D:\\class\\assets\\sprites\\\u901A\u7528\u65B9\u6CD5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\\u901A\u7528\u65B9\u6CD5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|D:\\class\\assets\\sprites\\countingdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\countingdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|d:\\class\\assets\\sprites\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|D:\\class\\assets\\sprites\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E414707-460B-C177-134B-5656085C808C}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,33 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\class\\Assets\\EasyStart Third Person Controller\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\EasyStart Third Person Controller\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\class\\Assets\\EasyStart Third Person Controller\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\EasyStart Third Person Controller\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:42:05.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BallMove.cs",
+              "DocumentMoniker": "D:\\class\\Assets\\Sprites\\BallMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\BallMove.cs",
+              "ToolTip": "D:\\class\\Assets\\Sprites\\BallMove.cs",
+              "RelativeToolTip": "Assets\\Sprites\\BallMove.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:14:54.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u901A\u7528\u65B9\u6CD5.cs",
+              "DocumentMoniker": "D:\\class\\Assets\\Sprites\\\u901A\u7528\u65B9\u6CD5.cs",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\\u901A\u7528\u65B9\u6CD5.cs",
+              "ToolTip": "D:\\class\\Assets\\Sprites\\\u901A\u7528\u65B9\u6CD5.cs",
+              "RelativeToolTip": "Assets\\Sprites\\\u901A\u7528\u65B9\u6CD5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:06:44.912Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Attached.cs",
+              "DocumentMoniker": "D:\\class\\Assets\\Sprites\\Attached.cs",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\Attached.cs",
+              "ToolTip": "D:\\class\\Assets\\Sprites\\Attached.cs",
+              "RelativeToolTip": "Assets\\Sprites\\Attached.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:48:44.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Score.cs",
               "DocumentMoniker": "D:\\class\\Assets\\Sprites\\Score.cs",
               "RelativeDocumentMoniker": "Assets\\Sprites\\Score.cs",
               "ToolTip": "D:\\class\\Assets\\Sprites\\Score.cs",
               "RelativeToolTip": "Assets\\Sprites\\Score.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T06:16:12.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T06:16:12.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CountingDown.cs",
               "DocumentMoniker": "D:\\class\\Assets\\Sprites\\CountingDown.cs",
               "RelativeDocumentMoniker": "Assets\\Sprites\\CountingDown.cs",
               "ToolTip": "D:\\class\\Assets\\Sprites\\CountingDown.cs",
               "RelativeToolTip": "Assets\\Sprites\\CountingDown.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T06:12:30.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T06:12:30.503Z"
             }
           ]
         }
